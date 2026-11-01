@@ -1,4 +1,4 @@
-# FinSight (Financial + Insight)
+# Mood On?
 
 LangChain + FastAPI 기반 실시간 주식 뉴스 감성 분석 시스템
 
@@ -9,7 +9,7 @@ AI가 실시간 주식 뉴스를 수집 및 분석하여 핵심 3줄 요약과 �
 ## 디렉토리 구조
 
 ```text
-FinSight/
+Mood On?/
 ├── ai/             # LangChain & LLM 기반 분석 Agent
 ├── backend/        # FastAPI 백엔드 서버 & WebSocket API
 └── frontend/       # React 기반 실시간 감성 분석 대시보드
